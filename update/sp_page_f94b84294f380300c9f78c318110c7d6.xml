@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <css/>
+        <draft>false</draft>
+        <id>test0825</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-25 01:41:05</sys_created_on>
+        <sys_id>f94b84294f380300c9f78c318110c7d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test0825</sys_name>
+        <sys_package display_value="8_23_whatcustom" source="x_144309_8_23_what">03893df04f300300c9f78c318110c7e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="8_23_whatcustom">03893df04f300300c9f78c318110c7e1</sys_scope>
+        <sys_update_name>sp_page_f94b84294f380300c9f78c318110c7d6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-25 01:41:05</sys_updated_on>
+        <title>test0825</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=f94b84294f380300c9f78c318110c7d6"/>
+</record_update>

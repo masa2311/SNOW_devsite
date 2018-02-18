@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>test0825 - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="test0825">f94b84294f380300c9f78c318110c7d6</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-25 01:41:05</sys_created_on>
+        <sys_id>3d4b84294f380300c9f78c318110c7d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test0825 - Container 1</sys_name>
+        <sys_package display_value="8_23_whatcustom" source="x_144309_8_23_what">03893df04f300300c9f78c318110c7e1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="8_23_whatcustom">03893df04f300300c9f78c318110c7e1</sys_scope>
+        <sys_update_name>sp_container_3d4b84294f380300c9f78c318110c7d8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-25 01:41:05</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>
